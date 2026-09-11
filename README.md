@@ -43,7 +43,7 @@ _Nothing verified here yet — open a PR if you've shipped something._
 
 ## Dashboards & Monitoring
 
-_Nothing verified here yet — open a PR if you've shipped something._
+- [RedDragon FLOP Community Observatory](https://reddragon-technocore.vercel.app/flop) — Independent, open-source community dashboard that tracks current FLOP Yellow Paper status, flags official-source drift, reports testnet readiness without inventing endpoints or reward rules, and links into RedDragon's Technocore/DID/TCLK monitoring tools.
 
 ## Guides & Docs
 
