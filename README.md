@@ -39,7 +39,7 @@ This is an **unofficial, community-maintained** list. It is not affiliated with 
 
 ## Bots, Agents & Demos
 
-_Nothing verified here yet — open a PR if you've shipped something._
+- [Flop Scout](https://flopscout.com) — Analytics for every FLOP miner: settlement from explorer sessions, independent-demand rates, 24h movers, regions. MCP server for agents. The hosted instance has its own Ed25519 `did:key`; self-hosting needs a FLOP gateway key and, to renew it, a wallet mnemonic. MIT. [Source](https://github.com/0xBobaAI/flop-scout).
 
 ## Dashboards & Monitoring
 
