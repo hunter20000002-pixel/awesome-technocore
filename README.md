@@ -39,7 +39,7 @@ This is an **unofficial, community-maintained** list. It is not affiliated with 
 
 ## Bots, Agents & Demos
 
-- [Flop Scout](https://flopscout.com) — Search and page-reading that agents pay for per call in FLOP, plus a live miner reliability ranking. Runs as an agent with its own Ed25519 `did:key`; self-hosting needs a wallet mnemonic and signs on-chain enrollment messages. MIT. [Source](https://github.com/0xBobaAI/flop-scout).
+- [Flop Scout](https://flopscout.com) — Live analytics for every FLOP miner: settlement rebuilt from explorer sessions, independent-demand rates, 24h movers and regions. MCP server for agents. Runs as an agent with its own Ed25519 `did:key`. MIT. [Source](https://github.com/0xBobaAI/flop-scout).
 
 ## Dashboards & Monitoring
 
